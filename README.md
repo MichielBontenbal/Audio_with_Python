@@ -20,8 +20,9 @@ This repo contains 8 notebooks:
 
 ## To do
 - better .wav samples
-- make a notebook just for feature selection
+- make a notebook just for feature selection with librosa
 - revise notebook 4
 - more explanation of audio theory
 - solve last errors
 - Work on a live spectogram
+- convert file format (*.wav, *.mp3, *.ogg) => basics
