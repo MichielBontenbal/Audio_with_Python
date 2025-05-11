@@ -1,11 +1,17 @@
 # Audio_with_Python
-A library to learn about audio with Python
+A library to learn about audio processing with Python. Use the notebooks in this repo to get an understanding of analysing audio and displaying audio. 
 
-Use the notebooks in this repo to learn about audio. 
+It's about understanding your audio signal. This notebook is about audio processing and digital signal processing. There is (almost) no AI in this repo. 
 
-You will use Python to do audio manipulation. 
+## Contents
+This repo contains 8 notebooks:
+1. Audio with Python basics
+2. Audio with Python advanced
+3. Visualising audio with librosa
+4. Another way to create a mel spectrogram
+5. Intro to fourier transform
+6. Energy and sound pressure level
+7. Analysing audio with numpy
+8. Filter & denoise 
 
-This is about audio processing / digital signal processing. There is (almost) no AI in this repo. 
-It's about understanding your audio signal.
-
-Everything is tested with Python 3.12
+**Everything is tested with Python 3.12**
